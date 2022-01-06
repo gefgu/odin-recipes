@@ -2,4 +2,4 @@
 
 - Simple website
 - 4 Webpages
-- Use of `<a>`, `<img>`, `<ul>`, `<ol>` and `<li>` tags  
+- Use of `<a>`, `<img>`, `<p>` `<ul>`, `<ol>`, `<li>` and heading tags  

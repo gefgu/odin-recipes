@@ -20,3 +20,8 @@ p, li, a {
 h1 {
     text-align: center;
 }
+
+.source-link {
+    color: blue;
+    font-size: 1.1rem;
+}
